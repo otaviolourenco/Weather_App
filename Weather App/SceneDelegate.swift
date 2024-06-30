@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Weather App
 //
-//  Created by Otavio Lourenço on 23/06/2024.
+//  Created by Karolina Attekita on 04/07/23.
 //
 
 import UIKit
@@ -54,4 +54,3 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
 
 }
-
